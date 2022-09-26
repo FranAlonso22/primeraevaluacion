@@ -1,0 +1,55 @@
+# Online Python compiler (interpreter) to run Python online.
+# Write Python 3 code in this online editor and run it.
+print("Hola, este es mi primer programa en Python")
+
+# Online Python compiler (interpreter) to run Python online.
+# Write Python 3 code in this online editor and run it.
+a=2
+b=3
+c=a+b
+print (c)
+
+# Online Python compiler (interpreter) to run Python online.
+# Write Python 3 code in this online editor and run it.
+a=2
+b=3
+c=a*b
+print (c)
+
+# Online Python compiler (interpreter) to run Python online.
+# Write Python 3 code in this online editor and run it.
+a=2
+b=3
+c=a*b
+print (c)
+
+# Online Python compiler (interpreter) to run Python online.
+# Write Python 3 code in this online editor and run it.
+a=2
+b=3
+c=a/b
+print (c)
+
+# Online Python compiler (interpreter) to run Python online.
+# Write Python 3 code in this online editor and run it.
+a="Fran"
+b="Alonso"
+c=a+b
+print (c)
+
+# Online Python compiler (interpreter) to run Python online.
+# Write Python 3 code in this online editor and run it.
+a="Fran"
+print("Hola"+a)
+
+# Programa de iniciacion
+# Le pregunta el nombre y responde saludándome
+print("Como te llamas?")
+nombre=input()
+print("Hola "+nombre+" encantado de conocerte.")
+
+# Programa de iniciacion
+# Junta el primer número con el segundo; ejemplo número a=2 y b=3 print(a+b) = 23
+a=input("Numero 1: ")
+b=input("Numero 2: ")
+print(a+b)
