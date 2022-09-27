@@ -1,0 +1,8 @@
+# Este lindo programa sirve para calcular la media de tres números.
+ def calcula_media():
+  n1=imput("n1= ")
+  n2=imput("n2= ")
+  n1=imput("n3= ")
+  suma=n1+n2+n3
+  media=suma/3
+  print(media)
