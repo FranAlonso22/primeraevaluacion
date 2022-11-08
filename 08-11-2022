@@ -1,0 +1,10 @@
+# Defina una función que reciba un NIF y devuelva 0 si la letra es correcta y 1 si no lo es.
+def letra_nif(numeros):
+     return "TRWAGMYFPDXBNJZSQVHLCKE"[numeros%23]
+dni=input("fsdg: ")
+letra=dni[len(dni)-1]
+num=""
+for x in range(0,(len(dni))-1):
+    num=num+dni[x]
+if letra_nif(num)!=letra:
+    print("No.")
