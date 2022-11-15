@@ -1,0 +1,10 @@
+#CONTRASEÑA Programa que valida la fortaleza de una contraseña.
+def prueba_palabras():
+    password="APROBARÉ"
+    if(password.islower() or passwordisupper()):
+        print("No cumple el criterio de tener mayúscuas y minúsculas")
+    else:
+        print("Sí cumple el criterio de tener mayúscuas y minúsculas")
+
+prueba_palabras()
+    
